@@ -22,6 +22,8 @@ If this project is useful to your research workflow, a GitHub star helps others 
 - Bilingual English / Simplified Chinese desktop interface, local processing, offline help and manual updates.
 - Desktop packaging targets: Windows x64, macOS Apple Silicon and macOS Intel.
 
+Version 1.0.0 builds and packaged-app smoke tests passed on all three platforms. [Validation scope and limitations](docs/VALIDATION.md)
+
 ## Try the workflow
 
 The [online version](https://tmccdb.org/tools/cv-kinetics/) remains available. For a desktop copy, contact the maintainer or use the original distribution channel. Desktop packages are not published in this public repository.
